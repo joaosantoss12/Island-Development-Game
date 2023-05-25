@@ -1,0 +1,3 @@
+debed minaf 3 3
+list
+next

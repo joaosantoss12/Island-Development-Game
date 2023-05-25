@@ -1,0 +1,10 @@
+oper 15
+len 20
+miner 10
+minaf 100
+minac 100
+central 15
+bat 110
+fund 10
+edx 500
+
